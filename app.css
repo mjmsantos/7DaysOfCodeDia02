@@ -1,0 +1,12 @@
+* {
+    font-size: 1.2rem;
+}
+
+#resultado,
+#voto {
+    margin: 5px 250px;
+    padding: 10px 0;
+    text-align: center;
+    background-color: green;
+    color: white;
+}
