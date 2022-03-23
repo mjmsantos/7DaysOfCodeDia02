@@ -1,5 +1,19 @@
 * {
+    margin: 0;
+    padding: 0;
     font-size: 1.2rem;
+    overflow: hidden;
+}
+
+header {
+    display: flex;
+    overflow: hidden;
+    width: 100vw;
+    height: 10vh;
+    font-size: 36px;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
 }
 
 #resultado,
@@ -7,6 +21,5 @@
     margin: 5px 250px;
     padding: 10px 0;
     text-align: center;
-    background-color: green;
-    color: white;
+    font-weight: 700;
 }
